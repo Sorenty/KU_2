@@ -1,0 +1,6 @@
+@startuml
+skinparam linetype ortho
+node "6920dec\nSorenty\n2024-09-18 15:28:51" as node_6920dec
+node "f665af2\nSorenty\n2024-08-25 22:44:20" as node_f665af2
+node_6920dec --> node_f665af2
+@enduml
